@@ -1,0 +1,12 @@
+export const TODOS__TODO_ADDED = 'todos/todoAdded';
+export const TODOS__TODO_TOGGLED = 'todos/todoToggled';
+export const TODOS__COLOR_SELECTED = 'todos/colorSelected';
+export const TODOS__TODO_DELETED = 'todos/todoDeleted';
+export const TODOS__ALL_COMPLETED = 'todos/allCompleted';
+export const TODOS__COMPLETED_CLEARED = 'todos/completedCleared';
+export const TODOS__TODOS_LOADING = 'todos/todosLoading';
+export const TODOS__TODOS_LOADING_FAILED = 'todos/todosLoadingFailed';
+export const TODOS__TODOS_LOADED = 'todos/todosLoaded';
+export const FILTER__STATUS_FILTER_CHANGED = 'filters/statusFilterChanged';
+export const FILTER__COLOR_FILTER_CHANGED = 'filters/colorFilterChanged';
+export const FILTER__COLOR_FILTER_REMOVED = 'filters/colorFilterRemoved';
